@@ -53,9 +53,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\Scripts\BG Collector\BGCollector.cs" />
      <Compile Include="Assets\Scripts\BirdScript\BirdScript.cs" />
      <Compile Include="Assets\Scripts\CameraScript\CameraScript.cs" />
+     <Compile Include="Assets\Scripts\CollectorScripts\BGCollector.cs" />
+     <Compile Include="Assets\Scripts\CollectorScripts\PipeCollector.cs" />
  <Reference Include="UnityEditor.StandardEvents">
  <HintPath>C:/Users/SirJUST/source/Unity Stuff/FlappyBirdTutorial/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
  </Reference>
